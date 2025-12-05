@@ -1,4 +1,5 @@
 [project]
+<<<<<<< HEAD
 name = "multi-agent-marketing-automation-system-using-crewai"
 version = "0.1.0"
 description = "Add your description here"
@@ -6,4 +7,15 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "crewai[google-genai,tools]>=1.6.1",
+=======
+name = "crewai-crash-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "crewai[tools]>=0.141.0",
+    "google-generativeai>=0.8.5",
+    "python-dotenv>=1.1.1",
+>>>>>>> 9157a32b111d21dfe61ad994b72ceb083195dec6
 ]
