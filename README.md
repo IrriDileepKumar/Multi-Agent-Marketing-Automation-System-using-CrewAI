@@ -177,7 +177,7 @@ Hot keywords from real search trends:
 ### ✅ Step 1 — Clone Repo
 
 ```bash
-git clone https://github.com/your-username/multi-agent-marketing-automation.git
+git clone https://github.com/IrriDileepKumar/Multi-Agent-Marketing-Automation-System-using-CrewAI.git
 cd multi-agent-marketing-automation
 ```
 
